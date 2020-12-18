@@ -1,10 +1,10 @@
 # Circuit-Simulator [Py]
-Digital Circuit Simulator
+##Digital Circuit Simulator
   - This program takes circuit structure file, user's desired primary input values;
   And simulates the circuit with the given inputs.
   When simulation completes, the program will print values at the primary output nodes.
 
-Circuit Structure File (.txt)
+##Circuit Structure File (.txt)
 - Must be in the same format as s27.txt, s298f_2.txt, s344f_2txt, s349f_2.txt provided
 - Each line is composed in following structure
   - If Gate is OR || NOR || AND || NAND
