@@ -17,3 +17,4 @@
       Lists Primary Output nodes
       
       
+![plot](C:\Users\jaehw\Desktop\Circuit_Sim.png)
