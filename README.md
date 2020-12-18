@@ -17,4 +17,4 @@
       Lists Primary Output nodes
       
       
-![Alt text](https://imgur.com/gx0wVtU "optional title")
+[Imgur](https://imgur.com/gx0wVtU)
