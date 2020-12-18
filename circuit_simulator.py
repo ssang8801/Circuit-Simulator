@@ -145,7 +145,7 @@ for elements in Gates:
 
 
 
-
+print("Trying Github 1")
 print(Ready_Gates)
 print(Gates)
 print(Inputs)
